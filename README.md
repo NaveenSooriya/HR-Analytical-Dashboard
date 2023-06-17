@@ -1,11 +1,16 @@
 # HR-Analytical-Dashboard
 HR analytical dashboard
+
 <img width="1280" alt="Screenshot 2023-06-17 at 14 50 30" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/129618506/9d431959-1856-427c-af34-5b3e9b4b5852">
+
+
 # Abstract
 A general overview of the role that analytical methods can play in evaluating several aspects of human resource management, including staff recruitment and retention, compensation and benefits, and skill inventories. The creation of a specialised analytics Dashboard for this organisation that focuses on strategy and human resources management is the purpose of this report. The directors and senior officials of the organization's management team should be able to rely on it for assistance when putting their strategic decisions into action.
+
 # Introduction
 Decision-making in businesses is complicated and depends on credible data in a competitive and connected environment. Firms and HR managers are under pressure to respond quickly to the changing business environment. Businesses try to reconstruct their structures and reinvent their practises and processes. Analytics can help in some cases. According to the literature, most organisations that have embraced Analytics can make better decisions faster. Businesses restructure, redefine, and streamline their operations. In some cases, analytics inform decisions. According to the literature, firms that embrace Analytics can make faster, more accurate decisions. According to research (Wawer and Muryjas, 2016), the human mind's ability to make optimal business decisions is insufficient in an era of rising data and sophisticated analytical needs. Analytics becomes a significant tool that blends business and IT, delivering crucial data to decision-makers via simulations and scenarios to optimise organisational development and forecast business results and customer behaviour. Empower HR leaders to build effective plans by offering them access to a wide range of workforce-related data to aid in planning, simulate planning circumstances, and evaluate real performance compared to plan to make better strategic judgements. Organizations can change their aims and objectives, change their programmes, and reallocate their resources and cash. In essence, performance metrics serve as a feedback loop in the process of managing corporate performance.
 # Company Overview:
+
 <img width="1018" alt="Screenshot 2023-06-17 at 14 59 15" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/3d74908b-59ba-420d-85fb-d076645844be">
                        
 With operations in 171 countries, IBM is a global technology business with its headquarters in Armonk, New York. IBM develops and sells computer hardware, software, middleware, hosting, and consulting services for a wide range of applications, including nanotechnology and computer systems. Additionally, IBM is a well-known research institution. It held the record for the most yearly U.S. patents produced by a firm for 28 years in a row (as of 2020). Around 282,100 people were employed by IBM as of December 2021, making it one of the top 30 Dow Jones Industrial Average firms and one of the biggest employers worldwide.
@@ -21,15 +26,17 @@ According to figure 1 above, IBM's revenue in 2021 is anticipated to surpass 57 
  Source: IBM Annual Report 2021, page 62 Figure 2: IBM net Income
 IBM's net profit increased from $5.59 billion in 2020 to $5.74 billion in 2021. Up until 2013, net income had been increasing continuously. The business hasn't performed consistently well since then. A portion of this can be attributable to the rapidly evolving market environment. Following an industry-wide digital revolution, IBM is altering its business strategy to focus more on providing smart solutions and cloud platforms than just hardware, software, and services. In 2016 IBM reorganised its software portfolio and modified its segment reporting to reflect this shift in strategy.
  
- Source: IT Services 25 - 2021, page 13
-Figure 3: Ranking of IT services companies worldwide
 The most valued supplier of IT services globally in 2020, according to Figure 3, is Accenture, which has a brand value of roughly 26 billion dollars, followed by IBM and TCS.
+
 
   <img width="815" alt="Screenshot 2023-06-17 at 15 03 51" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/ba37dc5c-4c6a-4a66-ae0f-8ce3ba51fac5">
 
+
 Source: IBM Annual Report 2021, page 17 Figure 4: IBM number of employees worldwide
+
 According to number 4, the American technology company IBM employed more than 282,000 people globally in 2021. IBM has been facing declining revenues and is working to change its business strategy therefore, which might account for the decline in the number of current employees.
 The challenges that IBM is up against are not dissimilar to those that are encountered by a great number of other businesses operating in the unpredictable and uncertain economic and social atmosphere in which modern multinational enterprises are required to do business. There is a strong desire among the leadership teams of a company that has such a heavy reliance on human, knowledge, and intellectual capital to learn more about the workforce and how they can be mobilised through HR activities to boost the organization's productivity and performance. This desire comes from the fact that the workforce is the most important asset the company has.
+
 The company has a strong HR department and a good handle on its finances. Also, the company gets its business solutions from the top corporate portfolios of consulting, service delivery and implementation, enterprise software, and systems.
 Due to the unpredictability of the industry, the business knows it needs to set up effective, effective, and competent human resources in order to provide clients with quality goods and services. In a competitive world where things change quickly, efficient and effective human capital is one of the main keys to success
 In reality, the company's human resources are in line with its business plan (Mellow, 2011). Also, the firm's human resource strategies focus on making connections between the organization's broad tactical goals and the whole process of putting them into action.
@@ -37,10 +44,13 @@ The firm's published studies show a statistically significant link between more 
  
 IBM needs to keep improving its performance in order to stay ahead of the competition. It can do this by cutting costs, coming up with new products, making business processes more efficient, improving product quality, and putting new products on the market at the right time (McAfee et al., 2011). So, the firm's strategy must be designed to help it reach its goals.
 Human resources' primary job is to build competent personnel in all business sectors in order to improve organisational performance. HR policies at the organisation, like selection, training, and enhancing the work environment, as well as performance review, are aimed at increasing the needed skills for enhanced performance. To learn more about the workforce and how they may be mobilised through HR activities to boost the firms productivity and performance is to create a HR dashboard. This is an important tool enabling the executives to align the overall corporate strategy of the organisation and its HR activities at the functional level and assist in data driven decision making.
+
 # What is HR dashboard?
+
 A business analytics tool called an HR dashboard allows teams in the HR Department to monitor, evaluate, and report on HR key performance indicators (KPIs). Utilizing an HR analytics platform, modern interactive dashboards make it simple to combine data from many systems and conduct in-depth analysis of that data from within the dashboard. This makes it possible for HR departments to quickly find insights that might enhance hiring, optimise workplace management, and raise employee productivity.
 In order to make the shift from analogue to digital, HR companies need to adopt fresh technology that will let them reinvent themselves and keep up with rapid changes in the fiercely competitive market for luring, keeping, and growing talent (Goldstein, 2015). The execution of business operations via the use of electronic forms has become essential to a company's success. Like all other company tasks, the Human Resources (HR) job is becoming increasingly computerised. This improvement made it possible for HR managers to utilise the data in every manner imaginable to create better HR metrics for the company. As organisations want to evaluate the performance of all functional areas in realistic terms, the creation of new HR metrics has become crucial; supported measures are the only way to demonstrate this.
 An organization's most important resource is its workforce. HR dashboards that are interactive and persona-based leverage an HR analytics platform that lets users see data directly from the dashboard.
+
 # HR Dashboard KPIs
 
 Reviewing and analysing the IBM workforce may be done in a more expedient and well-organized manner if the appropriate key performance indicators (KPIs) are used. The following is a list of the metrics that we need to take into consideration for the four primary categories that are workforce management, attrition, remuneration, and recruiting respectively.
@@ -83,17 +93,22 @@ Exploratory data analysis:
 
  Figure 5 shows that almost one out of every three women who worked in Women's Human Resources left the organisation. The most men left the Sales department than any other.
 
+
  
  From the above figure 6, Managers and Research Directors earn the most on average, while Laboratory Technicians and Sales Representatives earn the least.
+
+ 
 <img width="545" alt="Screenshot 2023-06-17 at 15 04 58" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/6c5245cf-269e-4fb9-86c1-7ab8e7ad38d3">
 
 
  Using figure 7, The scatterplot above shows that an employee's pay are closely related to their job level and that monthly income is positively correlated with the total number of years worked.
+ 
  Figure 8 shows: According to this graph, the most important things that affect how often an employee leaves are their monthly salary, their age, and whether they work overtime. Also, information about their job history, like the total number of years they've worked and how long they've been with the company and with their manager, as well as how close they live to the office and how much their pay has gone up, are some of the most important factors in figuring out who will leave.
 Now let’s explore our user-friendly dashboard that contains various layers/levels that enables users the choice to drill down further into data points of interest.
 
 We developed a user manual which supports users to understand how to use and interpret the dashboard.
 Dashboard:
+
 We imported the excel file into Tableau. Tableau is a visual analytics tool that helps people and organisations use data to solve issues. Once Tableau is launched, ready data connectors link to the database (excel file). Tableau has built-in visualisation features. Each visualisation is intuitive and self-depicting since most features are drag-and-drop. So, which department has the most attrition? Who has the highest attrition rate? We considered employee attributes that varied by gender as key KPI metrics, such as hourly rate, percent salary hike, total working years, work-life balance, job satisfaction, number of companies worked, performance Rating, average number of years with the manager, and average employee performance rate. It includes attrition due to business travel
  
 # User Manual
