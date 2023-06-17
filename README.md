@@ -10,17 +10,18 @@ Decision-making in businesses is complicated and depends on credible data in a c
                        
 With operations in 171 countries, IBM is a global technology business with its headquarters in Armonk, New York. IBM develops and sells computer hardware, software, middleware, hosting, and consulting services for a wide range of applications, including nanotechnology and computer systems. Additionally, IBM is a well-known research institution. It held the record for the most yearly U.S. patents produced by a firm for 28 years in a row (as of 2020). Around 282,100 people were employed by IBM as of December 2021, making it one of the top 30 Dow Jones Industrial Average firms and one of the biggest employers worldwide.
 The organisation, which is centred on highly skilled and qualified technical professionals, is fully dependent on the skill of its workforce to drive performance and carry on its tradition of sound financial success.
-
+<img width="813" alt="Screenshot 2023-06-17 at 15 03 29" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/bd5523a0-7cd6-44da-be1f-dcbe9ae50055">
  Source: IBM Annual Report 2021, page 62 Figure 1: IBM Revenue worldwide
 According to figure 1 above, IBM's revenue in 2021 is anticipated to surpass 57 billion US dollars. Since 2011, when IBM's revenues reached a record 106.9 billion US dollars, revenues have decreased. IBM is still one of the most valuable technology brands in the world, just behind Apple, Google, Amazon, and Microsoft, despite its recent decline. In essence, the business is engaged in creating value by reducing clients' operational costs and utilising competencies critical to revenue generation (IBM, 2013).
- 
+ <img width="815" alt="Screenshot 2023-06-17 at 15 03 44" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/903fd56f-9f2c-443d-aa3c-d968eeb4a1cc">
  Source: IBM Annual Report 2021, page 62 Figure 2: IBM net Income
 IBM's net profit increased from $5.59 billion in 2020 to $5.74 billion in 2021. Up until 2013, net income had been increasing continuously. The business hasn't performed consistently well since then. A portion of this can be attributable to the rapidly evolving market environment. Following an industry-wide digital revolution, IBM is altering its business strategy to focus more on providing smart solutions and cloud platforms than just hardware, software, and services. In 2016 IBM reorganised its software portfolio and modified its segment reporting to reflect this shift in strategy.
  
  Source: IT Services 25 - 2021, page 13
 Figure 3: Ranking of IT services companies worldwide
 The most valued supplier of IT services globally in 2020, according to Figure 3, is Accenture, which has a brand value of roughly 26 billion dollars, followed by IBM and TCS.
-  
+  <img width="815" alt="Screenshot 2023-06-17 at 15 03 51" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/ba37dc5c-4c6a-4a66-ae0f-8ce3ba51fac5">
+
 Source: IBM Annual Report 2021, page 17 Figure 4: IBM number of employees worldwide
 According to number 4, the American technology company IBM employed more than 282,000 people globally in 2021. IBM has been facing declining revenues and is working to change its business strategy therefore, which might account for the decline in the number of current employees.
 The challenges that IBM is up against are not dissimilar to those that are encountered by a great number of other businesses operating in the unpredictable and uncertain economic and social atmosphere in which modern multinational enterprises are required to do business. There is a strong desire among the leadership teams of a company that has such a heavy reliance on human, knowledge, and intellectual capital to learn more about the workforce and how they can be mobilised through HR activities to boost the organization's productivity and performance. This desire comes from the fact that the workforce is the most important asset the company has.
@@ -62,14 +63,15 @@ Recruitment KPIs:
 • Retention rate
 • Retirement rate forecast
 Therefore, we created an HR analytical dashboard that can aid in increasing data literacy within the company, encourage a culture of innovation and discovery, and empower employees at all levels to gain a competitive edge. If we have trustworthy and well-organized data, we can make better and quicker judgments, which is possible. We have therefore obtained data from Kaggle. The IBM data scientists produced the dataset. Nearly 1500 current and former employees are included in the data, along with details about their tenure, experience, salary, and demographics, as well as information about their job satisfaction and work-life balance. Here is a quick summary of the data along with some summary statistics.
-
+<img width="774" alt="Screenshot 2023-06-17 at 15 04 18" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/30dae08d-d0e7-404b-bcfd-efa23ffca96a">
  Table 1: Overview of the IBM dataset
 Strategies for employee retention are essential to a business's success and profitability. In this dashboard, we'll look at some of the most significant reasons why employees quit organisations. Since it keeps track of how many people leave a company, employee attrition is a prominent statistic used by organisations to assess their success. Despite the fact that turnover rates differ by sector, the Bureau of Labour Statistics projected a 25 percent overall turnover rate among voluntary separations in 2020
 Exploratory data analysis:
+<img width="544" alt="Screenshot 2023-06-17 at 15 04 35" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/e9594e72-b05b-488b-b201-e8d26510f871">
 
  Figure 5 shows that almost one out of every three women who worked in Women's Human Resources left the organisation. The most men left the Sales department than any other.
  From the above figure 6, Managers and Research Directors earn the most on average, while Laboratory Technicians and Sales Representatives earn the least.
-
+<img width="545" alt="Screenshot 2023-06-17 at 15 04 58" src="https://github.com/NaveenSooriya/HR-Analytical-Dashboard/assets/98401606/6c5245cf-269e-4fb9-86c1-7ab8e7ad38d3">
  Using figure 7, The scatterplot above shows that an employee's pay are closely related to their job level and that monthly income is positively correlated with the total number of years worked.
  Figure 8 shows: According to this graph, the most important things that affect how often an employee leaves are their monthly salary, their age, and whether they work overtime. Also, information about their job history, like the total number of years they've worked and how long they've been with the company and with their manager, as well as how close they live to the office and how much their pay has gone up, are some of the most important factors in figuring out who will leave.
 Now let’s explore our user-friendly dashboard that contains various layers/levels that enables users the choice to drill down further into data points of interest.
